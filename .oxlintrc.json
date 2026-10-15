@@ -1,0 +1,7 @@
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "rules": {
+    "sort-imports": ["error", { "ignoreDeclarationSort": true }],
+    "typescript/no-explicit-any": "error"
+  }
+}
